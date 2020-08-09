@@ -1,0 +1,5 @@
+Black Pudding - Bludgeoning Damage
+Necromancy Damage
+Poison Damage
+Cube - Acid Damage
+Fire Damage
